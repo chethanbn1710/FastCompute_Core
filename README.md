@@ -1,1 +1,1 @@
-FastCompute_Core says HELLO 
+FastCompute_Core says Hello!!
