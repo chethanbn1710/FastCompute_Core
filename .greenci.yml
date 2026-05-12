@@ -1,0 +1,7 @@
+build:
+  script:
+    - g++ main.cpp -o app
+
+run:
+  script:
+    - ./app
