@@ -1,7 +1,7 @@
-build:
+compute-build:
   script:
     - g++ main.cpp -o app
 
-run:
+compute-test:
   script:
     - ./app
