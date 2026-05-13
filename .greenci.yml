@@ -4,4 +4,4 @@ compute-build:
 
 compute-test:
   script:
-    - ./app
+    - app.exe
